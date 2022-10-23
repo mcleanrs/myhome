@@ -5,6 +5,6 @@ hold
 
 |Trigger | Xtension Unit | Button | Button Action | URL |
 |--------|---------------|--------|---------------|-----|
-|Desk Left |PlayKDFC_ALL | PlayKDFC | click | |
+|Desk Left |PlayKDFC_ALL | PlayKDFC | click | http://10.0.1.10:3001/button-playkdfc?event=click |
 | | PlayKDFC | hold | |
 | | PlayKDFC | double-click | | 
