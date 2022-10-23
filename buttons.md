@@ -11,3 +11,4 @@ hold
 |Activate Wind Down | PlayChillMix_ALL | PlayChillMix | click | http://10.0.1.10:3001/button-playchillmix?event=click |
 | |  | hold | |
 | |  | double-click | | 
+| | HomePods_Loud
